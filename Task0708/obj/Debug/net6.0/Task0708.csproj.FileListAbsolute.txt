@@ -1,0 +1,15 @@
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.csproj.AssemblyReference.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.GeneratedMSBuildEditorConfig.editorconfig
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.AssemblyInfoInputs.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.AssemblyInfo.cs
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.csproj.CoreCompileInputs.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\bin\Debug\net6.0\Task0708.exe
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\bin\Debug\net6.0\Task0708.deps.json
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\bin\Debug\net6.0\Task0708.runtimeconfig.json
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\bin\Debug\net6.0\Task0708.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\bin\Debug\net6.0\Task0708.pdb
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\refint\Task0708.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.pdb
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\Task0708.genruntimeconfig.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0708\obj\Debug\net6.0\ref\Task0708.dll
