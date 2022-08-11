@@ -18,16 +18,6 @@ Console.WriteLine($"{inputNumber[1]}");
 78 -> третьей цифры нет
 32679 -> 6
 */
-
-Console.Write("Введите число:");
-string inputNumber = Console.ReadLine();
-Console.WriteLine($"{inputNumber[2]}");
-if (Number<100)
-{
-   Console.WriteLine("третьей цифры нет"); 
-}
-
-
 /*
 Задача 15: Напишите программу, которая принимает на вход цифру,
  обозначающую день недели, и проверяет, является ли этот день выходным.
