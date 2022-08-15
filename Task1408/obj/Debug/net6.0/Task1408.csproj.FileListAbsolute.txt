@@ -1,0 +1,15 @@
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\bin\Debug\net6.0\Task1408.exe
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\bin\Debug\net6.0\Task1408.deps.json
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\bin\Debug\net6.0\Task1408.runtimeconfig.json
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\bin\Debug\net6.0\Task1408.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\bin\Debug\net6.0\Task1408.pdb
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.csproj.AssemblyReference.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.GeneratedMSBuildEditorConfig.editorconfig
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.AssemblyInfoInputs.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.AssemblyInfo.cs
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.csproj.CoreCompileInputs.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\refint\Task1408.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.pdb
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\Task1408.genruntimeconfig.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task1408\obj\Debug\net6.0\ref\Task1408.dll
