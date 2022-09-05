@@ -1,0 +1,15 @@
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\bin\Debug\net6.0\Task0309.exe
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\bin\Debug\net6.0\Task0309.deps.json
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\bin\Debug\net6.0\Task0309.runtimeconfig.json
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\bin\Debug\net6.0\Task0309.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\bin\Debug\net6.0\Task0309.pdb
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.csproj.AssemblyReference.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.GeneratedMSBuildEditorConfig.editorconfig
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.AssemblyInfoInputs.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.AssemblyInfo.cs
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.csproj.CoreCompileInputs.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\refint\Task0309.dll
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.pdb
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\Task0309.genruntimeconfig.cache
+H:\GeekBrains\3. С#\2. HomeW\HW\Task0309\obj\Debug\net6.0\ref\Task0309.dll
